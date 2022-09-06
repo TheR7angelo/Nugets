@@ -4,12 +4,23 @@
 namespace ConsoleApp
 
 {
-    static class Class1
+    internal static class Class1
     {
         private static void Main()
         {
             var t = new InteractMenu.InteractMenu();
-            Console.WriteLine(t.AddString("hey"));
+            var li = new List<string>() { "Hey", "Hey1" };
+            // for (var i = 1; i < 10; i++)
+            // {
+            //     t.AddString($"Hey_{i}");
+            // }
+            //t.AddListString(li);
+
+            var y = t.GetList();
+            foreach (var z in y)
+            {
+                Console.WriteLine(z);
+            }
         }
     }
 }

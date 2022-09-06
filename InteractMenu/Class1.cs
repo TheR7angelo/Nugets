@@ -2,9 +2,21 @@
 {
     public class InteractMenu
     {
-        public string AddString(string str)
+        private List<string> _listeOption = new();
+
+        public void AddString(string str)
         {
-            return str;
+            _listeOption.Add(str);
+        }
+
+        public void AddListString(IEnumerable<string> listStr)
+        {
+            _listeOption.AddRange(listStr);
+        }
+
+        public List<string> GetList()
+        {
+            return _listeOption;
         }
     }
 }
