@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{BAEDAA05-620C-471E-8D41-F69BAA3A7980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractMenu", "InteractMenu\InteractMenu.csproj", "{A3187192-BD70-47E8-BBC0-81CCDE3DD0B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEDAA05-620C-471E-8D41-F69BAA3A7980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEDAA05-620C-471E-8D41-F69BAA3A7980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEDAA05-620C-471E-8D41-F69BAA3A7980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEDAA05-620C-471E-8D41-F69BAA3A7980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3187192-BD70-47E8-BBC0-81CCDE3DD0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3187192-BD70-47E8-BBC0-81CCDE3DD0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3187192-BD70-47E8-BBC0-81CCDE3DD0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3187192-BD70-47E8-BBC0-81CCDE3DD0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

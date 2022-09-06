@@ -1,0 +1,12 @@
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\bin\Debug\net6.0\InteractMenu.deps.json
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\bin\Debug\net6.0\InteractMenu.dll
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\bin\Debug\net6.0\InteractMenu.pdb
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\obj\Debug\net6.0\InteractMenu.csproj.AssemblyReference.cache
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\obj\Debug\net6.0\InteractMenu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\obj\Debug\net6.0\InteractMenu.AssemblyInfoInputs.cache
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\obj\Debug\net6.0\InteractMenu.AssemblyInfo.cs
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\obj\Debug\net6.0\InteractMenu.csproj.CoreCompileInputs.cache
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\obj\Debug\net6.0\InteractMenu.dll
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\obj\Debug\net6.0\refint\InteractMenu.dll
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\obj\Debug\net6.0\InteractMenu.pdb
+E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\obj\Debug\net6.0\ref\InteractMenu.dll
