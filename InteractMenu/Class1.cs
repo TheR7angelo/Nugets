@@ -3,8 +3,8 @@
     public class InteractMenu
     {
         private List<string> _listOptionsStrings = new();
-        private List<string> _listOptionsSelected = new();
-        private string _mode = "liste";
+        // private List<string> _listOptionsSelected = new();
+        // private string _mode = "liste";
 
         public void AddString(string str)
         {
@@ -49,8 +49,8 @@
             Console.Clear();
             foreach (var opt in _listOptionsStrings.Select((value, i) => new { i, value }))
             {
-                var carac = opt.i.Equals(index) ? ">" : " ";
-                Console.WriteLine($"{carac} {opt.value}");
+                var str = opt.i.Equals(index) ? $"> {opt.value}".ForestGreen() : $" {opt.value}".Crimson();
+                Console.WriteLine(str);
             }
         }
 

@@ -7,50 +7,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="091d3165-1b11-4e52-aac3-ab86fdf51cb6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nuget/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nuget/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nuget/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nuget/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nuget/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="091d3165-1b11-4e52-aac3-ab86fdf51cb6" name="Changes" comment="Added function to selected item in list">
+      <change afterPath="$PROJECT_DIR$/InteractMenu/Color.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/InteractMenu.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/ConsoleApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/ConsoleApp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/ConsoleApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/ConsoleApp.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Class1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/InteractMenu.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/InteractMenu.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/ref/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/ref/InteractMenu.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/refint/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/refint/InteractMenu.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/InteractMenu.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/InteractMenu.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/InteractMenu.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/InteractMenu.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/project.packagespec.json" afterDir="false" />
@@ -84,11 +64,11 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="ConsoleApp" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="1" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp/ConsoleApp.csproj" />
@@ -96,7 +76,7 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net7.0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -111,8 +91,16 @@
       <option name="presentableId" value="Default" />
       <updated>1662531924729</updated>
       <workItem from="1662531932366" duration="29000" />
-      <workItem from="1662531981072" duration="3692000" />
+      <workItem from="1662531981072" duration="6902000" />
     </task>
+    <task id="LOCAL-00001" summary="Added function to selected item in list">
+      <created>1662537924134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662537924134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,38 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/InteractMenu/Class1.cs</url>
-          <line>58</line>
-          <properties documentPath="C:\Users\ZP6177\Creative Cloud Files\Programmation\C#\Ineo Infracom\Nugets\InteractMenu\Class1.cs" initialLine="64" containingFunctionPresentation="method 'AddIndex'">
-            <startOffsets>
-              <option value="1728" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1777" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/InteractMenu/Class1.cs</url>
-          <line>48</line>
-          <properties documentPath="C:\Users\ZP6177\Creative Cloud Files\Programmation\C#\Ineo Infracom\Nugets\InteractMenu\Class1.cs" initialLine="47" containingFunctionPresentation="method 'WriteMenu'">
-            <startOffsets>
-              <option value="1385" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1401" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Added function to selected item in list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added function to selected item in list" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

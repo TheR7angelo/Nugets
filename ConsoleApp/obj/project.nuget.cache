@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dm8iQTrzcS0NLdHP9e9LBquBmPEbEpO3za1tLoGgsHWrlxJmCE+BhlIpsrp4oa7Q/5eAKep77VIpWB9j5K1TWA==",
+  "dgSpecHash": "KQ57mrZrpRmSWUmKpFu3850TOLnM/aHnpTjT09i3+TpEpj2993xgDFQHe9WCT49mdX+oe+xwsH2gLNZTCPYs7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ZP6177\\Creative Cloud Files\\Programmation\\C#\\Ineo Infracom\\Nugets\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ZP6177\\.nuget\\packages\\pastel\\3.0.1\\pastel.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

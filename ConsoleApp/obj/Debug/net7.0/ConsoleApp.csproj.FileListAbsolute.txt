@@ -49,3 +49,4 @@ C:\Users\ZP6177\Creative Cloud Files\Programmation\C#\Ineo Infracom\Nugets\Conso
 C:\Users\ZP6177\Creative Cloud Files\Programmation\C#\Ineo Infracom\Nugets\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
 C:\Users\ZP6177\Creative Cloud Files\Programmation\C#\Ineo Infracom\Nugets\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\ZP6177\Creative Cloud Files\Programmation\C#\Ineo Infracom\Nugets\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
+C:\Users\ZP6177\Creative Cloud Files\Programmation\C#\Ineo Infracom\Nugets\ConsoleApp\bin\Debug\net7.0\Pastel.dll
