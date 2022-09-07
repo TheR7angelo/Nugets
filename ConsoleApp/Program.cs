@@ -9,18 +9,12 @@ namespace ConsoleApp
         private static void Main()
         {
             var t = new InteractMenu.InteractMenu();
-            var li = new List<string>() { "Hey", "Hey1" };
-            // for (var i = 1; i < 10; i++)
-            // {
-            //     t.AddString($"Hey_{i}");
-            // }
-            //t.AddListString(li);
+            var li = new List<string> { "Hey", "Hey1" };
 
-            var y = t.GetList();
-            foreach (var z in y)
-            {
-                Console.WriteLine(z);
-            }
+            t.AddListString(li);
+
+            var x = t.Ask();
+            Console.WriteLine(x);
         }
     }
 }
