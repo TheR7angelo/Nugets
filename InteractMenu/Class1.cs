@@ -1,6 +1,6 @@
 ﻿namespace InteractMenu
 {
-    public class InteractMenu
+    public class ListMenu
     {
         private List<string> _listOptionsStrings = new();
         // private List<string> _listOptionsSelected = new();
@@ -16,11 +16,11 @@
             _listOptionsStrings.AddRange(listStr);
         }
 
-        public string Ask(ConsoleKey exit = ConsoleKey.X)
+        public string Ask(string title, ConsoleKey exit = ConsoleKey.X)
         {
             var index = 0;
             ConsoleKeyInfo keyInfo;
-            WriteMenu(index);
+            WriteMenu(index, title);
             do
             {
                 keyInfo = Console.ReadKey();
@@ -29,11 +29,11 @@
                 {
                     case ConsoleKey.DownArrow:
                         index = AddIndex(index, "+");
-                        WriteMenu(index);
+                        WriteMenu(index, title);
                         break;
                     case ConsoleKey.UpArrow:
                         index = AddIndex(index, "-");
-                        WriteMenu(index);
+                        WriteMenu(index, title);
                         break;
                     case ConsoleKey.Enter:
                         return _listOptionsStrings[index];
@@ -44,13 +44,14 @@
             return string.Empty;
         }
 
-        private void WriteMenu(int index)
+        private void WriteMenu(int index, string title)
         {
             Console.Clear();
+            Console.WriteLine(title);
             foreach (var opt in _listOptionsStrings.Select((value, i) => new { i, value }))
             {
                 var str = opt.i.Equals(index) ? $"> {opt.value}".ForestGreen() : $" {opt.value}".Crimson();
-                Console.WriteLine(str);
+                Console.WriteLine($"  {str}");
             }
         }
 

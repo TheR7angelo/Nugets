@@ -7,9 +7,13 @@
     <TargetFrameworks>net6.0;net7.0</TargetFrameworks>
     <PackageProjectUrl>https://github.com/TheR7angelo/Nugets/tree/master/InteractMenu</PackageProjectUrl>
     <PackageTags>Menu; Interact</PackageTags>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageVersion>1.0.0.1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="LICENSE" Pack="true" PackagePath="" />
     <PackageReference Include="Pastel" Version="3.0.1" />
   </ItemGroup>
 

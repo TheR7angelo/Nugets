@@ -1,19 +1,18 @@
 ﻿using InteractMenu;
 
-
 namespace ConsoleApp
 
 {
-    internal static class Class1
+    class Class1
     {
         private static void Main()
         {
-            var t = new InteractMenu.InteractMenu();
+            var menu = new ListMenu();
             var li = new List<string> { "Hey", "Hey1" };
             
-            t.AddListString(li);
+            menu.AddListString(li);
             
-            var x = t.Ask();
+            var x = menu.Ask("Choix ?");
             Console.WriteLine(x);
         }
     }
