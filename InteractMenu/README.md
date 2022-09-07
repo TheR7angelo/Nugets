@@ -1,9 +1,11 @@
-ENGLISH
+### ENGLISH
 
 To use this NuGet package just call the desired function.
 For the moment there is only one function, list of choices, with only one possible output result.
 
 Example of use :
+
+```
 {
     using InteractMenu;
     class Class1
@@ -21,15 +23,15 @@ Example of use :
         }
     }
 }
-
-************************************************************************************************************************
-
+```
+---
 FRANCAIS
 
 Pour utiliser ce paquet NuGet il suffit d'appeler la fonction désirer.
 Pour le moment il n'y qu'une fonction, liste de choix, avec un seul résultat de sorti possible.
 
 Exemple d’utilisation :
+````
 {
     using InteractMenu;
     class Class1
@@ -47,3 +49,4 @@ Exemple d’utilisation :
         }
     }
 }
+````

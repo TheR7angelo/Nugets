@@ -7,30 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="091d3165-1b11-4e52-aac3-ab86fdf51cb6" name="Changes" comment="Added licence file">
-      <change afterPath="$PROJECT_DIR$/InteractMenu/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Class1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/InteractMenu.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/InteractMenu.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/InteractMenu.1.0.0.nupkg" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/InteractMenu.1.0.0.nupkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net7.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net7.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net7.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net7.0/InteractMenu.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/InteractMenu.1.0.0.nuspec" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/InteractMenu.1.0.0.nuspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/ref/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/ref/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/refint/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/refint/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/ref/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/ref/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/refint/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/refint/InteractMenu.dll" afterDir="false" />
+    <list default="true" id="091d3165-1b11-4e52-aac3-ab86fdf51cb6" name="Changes" comment="Added README.txt">
+      <change afterPath="$PROJECT_DIR$/InteractMenu/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/README.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/ZP6177/Creative Cloud Files/Programmation/C#/Ineo Infracom/Nugets/InteractMenu/Class1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -57,6 +37,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -90,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662531924729</updated>
       <workItem from="1662531932366" duration="29000" />
-      <workItem from="1662531981072" duration="8750000" />
+      <workItem from="1662531981072" duration="9124000" />
     </task>
     <task id="LOCAL-00001" summary="Added function to selected item in list">
       <created>1662537924134</created>
@@ -106,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662541414189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added README.txt">
+      <created>1662543466858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662543466858</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +117,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added function to selected item in list" />
     <MESSAGE value="Added licence file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added licence file" />
+    <MESSAGE value="Added README.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README.txt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
