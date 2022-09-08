@@ -11,7 +11,7 @@
           "lib/net6.0/Pastel.dll": {}
         }
       },
-      "InteractMenu/1.0.0": {
+      "InteractMenu/1.0.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -44,7 +44,7 @@
         "pastel.nuspec"
       ]
     },
-    "InteractMenu/1.0.0": {
+    "InteractMenu/1.0.0.1": {
       "type": "project",
       "path": "../InteractMenu/InteractMenu.csproj",
       "msbuildProject": "../InteractMenu/InteractMenu.csproj"
@@ -52,7 +52,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "InteractMenu >= 1.0.0"
+      "InteractMenu >= 1.0.0.1"
     ]
   },
   "packageFolders": {

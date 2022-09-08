@@ -1,4 +1,6 @@
-﻿namespace InteractMenu
+﻿using System.Diagnostics.SymbolStore;
+
+namespace InteractMenu
 {
     public class ListMenu
     {
@@ -20,7 +22,8 @@
         {
             var index = 0;
             ConsoleKeyInfo keyInfo;
-            WriteMenu(index, title);
+            Console.WriteLine(title);
+            WriteMenu(index);
             do
             {
                 keyInfo = Console.ReadKey();
@@ -29,25 +32,31 @@
                 {
                     case ConsoleKey.DownArrow:
                         index = AddIndex(index, "+");
-                        WriteMenu(index, title);
                         break;
                     case ConsoleKey.UpArrow:
                         index = AddIndex(index, "-");
-                        WriteMenu(index, title);
                         break;
                     case ConsoleKey.Enter:
                         return _listOptionsStrings[index];
                 }
+                WriteMenu(index, true);
                 
             } while (keyInfo.Key != exit);
 
             return string.Empty;
         }
 
-        private void WriteMenu(int index, string title)
+        private void WriteMenu(int index, bool init = false)
         {
-            Console.Clear();
-            Console.WriteLine(title);
+            if (init)
+            {
+                var lastLine = Console.CursorTop;
+                for (var i = Console.CursorTop; i >= lastLine - _listOptionsStrings.Count  ; i--)
+                {
+                    Utils.Console.Clear.ClearConsoleLine(i);
+                }
+            }
+
             foreach (var opt in _listOptionsStrings.Select((value, i) => new { i, value }))
             {
                 var str = opt.i.Equals(index) ? $"> {opt.value}".ForestGreen() : $" {opt.value}".Crimson();

@@ -10,6 +10,9 @@
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageVersion>1.0.0.1</PackageVersion>
+    <Description>For the moment there is only one function, list of choices, with only one possible output result.</Description>
+    <RepositoryUrl>https://github.com/TheR7angelo/Nugets/tree/InteractMenu/InteractMenu</RepositoryUrl>
+    <Authors>TheR7angelo</Authors>
   </PropertyGroup>
 
   <ItemGroup>

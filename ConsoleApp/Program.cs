@@ -8,7 +8,7 @@ namespace ConsoleApp
         private static void Main()
         {
             var menu = new ListMenu();
-            var li = new List<string> { "Hey", "Hey1" };
+            var li = new List<string> { "Hey", "Hey1", "Hey2" };
             
             menu.AddListString(li);
             

@@ -4,12 +4,13 @@
     <id>InteractMenu</id>
     <version>1.0.0.1</version>
     <title>InteractMenu</title>
-    <authors>InteractMenu</authors>
+    <authors>TheR7angelo</authors>
     <license type="file">LICENSE</license>
     <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
     <projectUrl>https://github.com/TheR7angelo/Nugets/tree/master/InteractMenu</projectUrl>
-    <description>Package Description</description>
+    <description>For the moment there is only one function, list of choices, with only one possible output result.</description>
     <tags>Menu Interact</tags>
+    <repository url="https://github.com/TheR7angelo/Nugets/tree/InteractMenu/InteractMenu" />
     <dependencies>
       <group targetFramework="net6.0">
         <dependency id="Pastel" version="3.0.1" exclude="Build,Analyzers" />
