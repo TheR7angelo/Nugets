@@ -1,7 +1,7 @@
 ﻿
 namespace InteractMenu.Utils.Console;
 
-public class Clear
+public static class Clear
 {
     public static void ClearConsoleLine(int line)
     {
