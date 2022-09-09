@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 using InteractMenu;
-using InteractMenu.Utils;
+using InteractMenu.Utils.Colors;
 
 namespace ConsoleApp
 
@@ -11,13 +11,17 @@ namespace ConsoleApp
         {
             var menu = new ListMenu();
             var li = new List<string> { "Choix 1", "Choix 2", "Choix 3" };
+            
+            menu.SetColors(Color.Fuchsia, ColorsKey.Good);
 
-            menu.SetColors(Color.Fuchsia, Strucs.Good);
+            var c = Color.FromArgb(255, 255, 255);
             
             menu.AddListString(li);
             
             var x = menu.Ask("Choix ?");
             Console.WriteLine(x);
         }
+
+        public static ColorsKey ColorsKey { get; }
     }
 }

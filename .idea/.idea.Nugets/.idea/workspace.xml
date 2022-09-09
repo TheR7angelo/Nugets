@@ -7,41 +7,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="091d3165-1b11-4e52-aac3-ab86fdf51cb6" name="Changes" comment="Change version">
-      <change afterPath="$PROJECT_DIR$/InteractMenu/Utils/Colors/Strucs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InteractMenu/Utils/Reflection.cs" afterDir="false" />
+    <list default="true" id="091d3165-1b11-4e52-aac3-ab86fdf51cb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Class1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/InteractMenu.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/InteractMenu.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/Utils/Colors/Color.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Utils/Colors/Color.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net6.0/InteractMenu.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net7.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net7.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/bin/Debug/net7.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/bin/Debug/net7.0/InteractMenu.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/ref/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/ref/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/refint/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/refint/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/ref/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/ref/InteractMenu.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/refint/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/refint/InteractMenu.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/Utils/Colors/Strucs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Utils/Colors/Strucs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/Utils/Reflection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Utils/Reflection.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/ZP6177/Creative Cloud Files/Programmation/C#/Ineo Infracom/Nugets/InteractMenu/Class1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/ZP6177/Creative Cloud Files/Programmation/C#/Ineo Infracom/Nugets/InteractMenu/Utils/Console/Clear.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ecbadccb331aefd9b89b9a59f475cb43fe14c83fde07942ff38e11a55183/ColorConverterCommon.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5956701c92ec47bc98145555cd08eafca23890/_588bb/IEquatable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/920eed71f30b477497e0834aea8843841fc88/_e6993/KnownColor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a6d4befb9e671fcaa2cd58caafc9f1a81b5482bbd1f8c88a14826aa1016/Color.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,27 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ConsoleApp" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0/ConsoleApp.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApp/bin/Debug/net7.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp/ConsoleApp.csproj" />
@@ -167,6 +153,25 @@
     <MESSAGE value="Added function for delete uniquely the lien used for the menu" />
     <MESSAGE value="Change version" />
     <option name="LAST_COMMIT_MESSAGE" value="Change version" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/InteractMenu/Class1.cs</url>
+          <line>18</line>
+          <properties documentPath="E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\Class1.cs" initialLine="18" containingFunctionPresentation="method 'SetColors'">
+            <startOffsets>
+              <option value="560" />
+            </startOffsets>
+            <endOffsets>
+              <option value="602" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

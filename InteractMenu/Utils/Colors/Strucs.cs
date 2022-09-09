@@ -3,9 +3,7 @@
 namespace InteractMenu.Utils;
 
 public partial class Strucs
-{
-    public const string Bad = "Bad";
-    public const string Good = "Good";
+{ 
     public class ColorsListAnswer : ReflectableClass
     {
         public Color Bad;

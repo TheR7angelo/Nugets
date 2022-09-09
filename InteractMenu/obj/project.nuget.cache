@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rCS7xmI1aZqYllhgKJctmto+goaVzqFEDwMqoVGZSllyHfMqn//U5bLVhbU+0divC2eQhgKsACTvBl05xvYQ/Q==",
+  "success": true,
+  "projectFilePath": "E:\\Logiciels\\Adobe\\Creative Cloud Files\\Programmation\\C#\\Personnel\\Nugets\\InteractMenu\\InteractMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rapha\\.nuget\\packages\\pastel\\3.0.1\\pastel.3.0.1.nupkg.sha512",
+    "C:\\Users\\Rapha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Rapha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Rapha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

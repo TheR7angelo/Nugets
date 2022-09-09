@@ -1,5 +1,6 @@
 ﻿using System.Drawing;
 using InteractMenu.Utils;
+using InteractMenu.Utils.Colors;
 using Pastel;
 
 namespace InteractMenu
@@ -11,9 +12,10 @@ namespace InteractMenu
         private Strucs.ColorsListAnswer _colorsListAnswer = new (){Bad = Color.Crimson, Good = Color.ForestGreen};
         // private List<string> _listOptionsSelected = new();
         // private string _mode = "liste";
-        public void SetColors(Color color, string key)
+
+        public void SetColors(Color color, ColorsKey key)
         {
-            _colorsListAnswer[key] = color;
+            _colorsListAnswer[key.ToString()] = color;
         }
 
         public void AddString(string str)

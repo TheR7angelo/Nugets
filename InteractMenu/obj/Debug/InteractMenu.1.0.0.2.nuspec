@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InteractMenu</id>
+    <version>1.0.0.2</version>
+    <title>InteractMenu</title>
+    <authors>TheR7angelo</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/TheR7angelo/Nugets/tree/master/InteractMenu</projectUrl>
+    <description>For the moment there is only one function, list of choices, with only one possible output result.</description>
+    <tags>Menu Interact</tags>
+    <repository url="https://github.com/TheR7angelo/Nugets/tree/InteractMenu/InteractMenu" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Pastel" version="3.0.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net7.0">
+        <dependency id="Pastel" version="3.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\bin\Debug\net6.0\InteractMenu.dll" target="lib\net6.0\InteractMenu.dll" />
+    <file src="E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\bin\Debug\net7.0\InteractMenu.dll" target="lib\net7.0\InteractMenu.dll" />
+    <file src="E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\LICENSE" target="LICENSE" />
+    <file src="E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\README.txt" target="README.txt" />
+  </files>
+</package>
