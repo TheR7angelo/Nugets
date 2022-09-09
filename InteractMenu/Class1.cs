@@ -15,7 +15,7 @@ namespace InteractMenu
 
         public void SetColors(Color color, ColorsKey key)
         {
-            _colorsListAnswer[key.ToString()] = color;
+            _colorsListAnswer[key.value.ToString()] = color;
         }
 
         public void AddString(string str)

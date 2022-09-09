@@ -7,13 +7,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="091d3165-1b11-4e52-aac3-ab86fdf51cb6" name="Changes" comment="">
+    <list default="true" id="091d3165-1b11-4e52-aac3-ab86fdf51cb6" name="Changes" comment="Added new type">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nugets/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Class1.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InteractMenu/Utils/Colors/Color.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Utils/Colors/Color.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/Utils/Colors/Strucs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Utils/Colors/Strucs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteractMenu/Utils/Reflection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/Utils/Reflection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/InteractMenu.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/ref/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/ref/InteractMenu.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/refint/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/refint/InteractMenu.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/InteractMenu.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/ref/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/ref/InteractMenu.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/refint/InteractMenu.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InteractMenu/obj/Debug/net7.0/refint/InteractMenu.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +36,9 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5956701c92ec47bc98145555cd08eafca23890/_588bb/IEquatable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/920eed71f30b477497e0834aea8843841fc88/_e6993/KnownColor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a6d4befb9e671fcaa2cd58caafc9f1a81b5482bbd1f8c88a14826aa1016/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/Logiciels/Adobe/Creative Cloud Files/Programmation/C#/Personnel/Nugets/InteractMenu/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/Logiciels/Adobe/Creative Cloud Files/Programmation/C#/Personnel/Nugets/InteractMenu/Utils/Colors/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InteractMenu/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -125,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662637795241</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added new type">
+      <created>1662759270628</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662759270628</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +170,8 @@
     <MESSAGE value="Added markdown" />
     <MESSAGE value="Added function for delete uniquely the lien used for the menu" />
     <MESSAGE value="Change version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change version" />
+    <MESSAGE value="Added new type" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new type" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -162,13 +181,13 @@
           <line>18</line>
           <properties documentPath="E:\Logiciels\Adobe\Creative Cloud Files\Programmation\C#\Personnel\Nugets\InteractMenu\Class1.cs" initialLine="18" containingFunctionPresentation="method 'SetColors'">
             <startOffsets>
-              <option value="560" />
+              <option value="555" />
             </startOffsets>
             <endOffsets>
-              <option value="602" />
+              <option value="584" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
