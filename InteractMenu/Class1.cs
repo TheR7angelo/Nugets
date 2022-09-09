@@ -1,12 +1,20 @@
-﻿using System.Diagnostics.SymbolStore;
+﻿using System.Drawing;
+using InteractMenu.Utils;
+using Pastel;
 
 namespace InteractMenu
 {
     public class ListMenu
     {
         private List<string> _listOptionsStrings = new();
+
+        private Strucs.ColorsListAnswer _colorsListAnswer = new (){Bad = Color.Crimson, Good = Color.ForestGreen};
         // private List<string> _listOptionsSelected = new();
         // private string _mode = "liste";
+        public void SetColors(Color color, string key)
+        {
+            _colorsListAnswer[key] = color;
+        }
 
         public void AddString(string str)
         {
@@ -59,7 +67,7 @@ namespace InteractMenu
 
             foreach (var opt in _listOptionsStrings.Select((value, i) => new { i, value }))
             {
-                var str = opt.i.Equals(index) ? $"> {opt.value}".ForestGreen() : $" {opt.value}".Crimson();
+                var str = opt.i.Equals(index) ? $"> {opt.value}".Pastel(_colorsListAnswer.Good) : $" {opt.value}".Pastel(_colorsListAnswer.Bad);
                 Console.WriteLine($"  {str}");
             }
         }

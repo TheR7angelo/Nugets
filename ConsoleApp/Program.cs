@@ -1,4 +1,6 @@
-﻿using InteractMenu;
+﻿using System.Drawing;
+using InteractMenu;
+using InteractMenu.Utils;
 
 namespace ConsoleApp
 
@@ -9,6 +11,8 @@ namespace ConsoleApp
         {
             var menu = new ListMenu();
             var li = new List<string> { "Choix 1", "Choix 2", "Choix 3" };
+
+            menu.SetColors(Color.Fuchsia, Strucs.Good);
             
             menu.AddListString(li);
             

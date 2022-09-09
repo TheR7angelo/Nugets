@@ -1,1 +1,5 @@
-﻿/ConsoleApp/bin/Debug/
+﻿/ConsoleApp/bin/
+/ConsoleApp/obj/
+
+/InteractMenu/bin/
+/InteractMenu/obj/
